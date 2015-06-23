@@ -41,8 +41,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="10.RegularExpressionMatching.cs" />
+    <Compile Include="11.ContainerWithMostWater.cs" />
+    <Compile Include="12.IntegerToRoman.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="13.RomanToInteger.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -51,6 +51,16 @@
   </Choose>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="10.RegularExpressionMatchingTest.cs" />
+    <Compile Include="11.ContainerWithMostWaterTest.cs" />
+    <Compile Include="12.IntegerToRomanTest.cs" />
+    <Compile Include="13.RomanToIntegerTest.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LeetCode.Code\LeetCode.Code.csproj">
+      <Project>{0c7d4820-5b89-4011-a402-31a6052964f0}</Project>
+      <Name>LeetCode.Code</Name>
+    </ProjectReference>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
