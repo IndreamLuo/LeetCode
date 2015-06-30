@@ -55,6 +55,7 @@
     <Compile Include="11.ContainerWithMostWaterTest.cs" />
     <Compile Include="12.IntegerToRomanTest.cs" />
     <Compile Include="13.RomanToIntegerTest.cs" />
+    <Compile Include="14.LongestCommonPrefixTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LeetCode.Code\LeetCode.Code.csproj">
