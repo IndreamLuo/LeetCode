@@ -58,6 +58,7 @@
     <Compile Include="14.LongestCommonPrefixTest.cs" />
     <Compile Include="17.LetterCombinationsOfAPhoneNumberTest.cs" />
     <Compile Include="18.4SumTest.cs" />
+    <Compile Include="19.RemoveNthNodeFromEndOfListTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LeetCode.Code\LeetCode.Code.csproj">
