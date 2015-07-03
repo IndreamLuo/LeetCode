@@ -50,6 +50,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="15.3SumTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="10.RegularExpressionMatchingTest.cs" />
     <Compile Include="11.ContainerWithMostWaterTest.cs" />
