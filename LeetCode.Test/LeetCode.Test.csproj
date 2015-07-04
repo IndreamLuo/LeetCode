@@ -60,6 +60,7 @@
     <Compile Include="18.4SumTest.cs" />
     <Compile Include="19.RemoveNthNodeFromEndOfListTest.cs" />
     <Compile Include="20.ValidParenthesesTest.cs" />
+    <Compile Include="21.MergeTwoSortedListsTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LeetCode.Code\LeetCode.Code.csproj">
