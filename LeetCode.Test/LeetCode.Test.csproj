@@ -62,6 +62,7 @@
     <Compile Include="20.ValidParenthesesTest.cs" />
     <Compile Include="21.MergeTwoSortedListsTest.cs" />
     <Compile Include="22.GenerateParenthesesTest.cs" />
+    <Compile Include="23.MergeKSortedListsTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LeetCode.Code\LeetCode.Code.csproj">
