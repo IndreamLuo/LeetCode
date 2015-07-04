@@ -59,6 +59,7 @@
     <Compile Include="17.LetterCombinationsOfAPhoneNumberTest.cs" />
     <Compile Include="18.4SumTest.cs" />
     <Compile Include="19.RemoveNthNodeFromEndOfListTest.cs" />
+    <Compile Include="20.ValidParenthesesTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LeetCode.Code\LeetCode.Code.csproj">
