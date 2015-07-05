@@ -12,12 +12,13 @@ namespace LeetCode.Test
 
         void AssertOrdered(LeetCode.Code.MergeKSortedLists.ListNode list, int count)
         {
-            var nodeCount = 0;
+            var nodeCount = 1;
+            var currentListNode = list;
 
-            while (list.next != null)
+            while (currentListNode.next != null)
             {
-                Assert.IsTrue(list.next.val >= list.val);
-                list = list.next;
+                Assert.IsTrue(currentListNode.next.val >= currentListNode.val);
+                currentListNode = currentListNode.next;
                 nodeCount++;
             }
 
@@ -51,6 +52,13 @@ namespace LeetCode.Test
             }
 
             this.AssertOrdered(mergeKSortedLists.MergeKLists(lists.ToArray()), count);
+
+            lists = new List<MergeKSortedLists.ListNode>();
+            var randomCount = 10000;
+            for (var index = 0; index < randomCount; index++)
+                lists.Add(new LeetCode.Code.MergeKSortedLists.ListNode(random.Next(int.MaxValue)));
+
+            this.AssertOrdered(mergeKSortedLists.MergeKLists(lists.ToArray()), randomCount);
         }
     }
 }
