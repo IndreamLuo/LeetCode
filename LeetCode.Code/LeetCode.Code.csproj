@@ -55,6 +55,7 @@
     <Compile Include="13.RomanToInteger.cs" />
     <Compile Include="19.RemoveNthNodeFromEndOfList.cs" />
     <Compile Include="20.ValidParentheses.cs" />
+    <Compile Include="24.SwapNodesInPairs.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
