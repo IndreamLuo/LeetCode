@@ -65,6 +65,7 @@
     <Compile Include="23.MergeKSortedListsTest.cs" />
     <Compile Include="24.SwapNodesInPairsTest.cs" />
     <Compile Include="25.ReverseNodesInKGroupTest.cs" />
+    <Compile Include="26.RemoveDuplicatesFromSortedArrayTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LeetCode.Code\LeetCode.Code.csproj">

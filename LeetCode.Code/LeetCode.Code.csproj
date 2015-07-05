@@ -57,6 +57,7 @@
     <Compile Include="20.ValidParentheses.cs" />
     <Compile Include="24.SwapNodesInPairs.cs" />
     <Compile Include="25.ReverseNodesInKGroup.cs" />
+    <Compile Include="26.RemoveDuplicatesFromSortedArray.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
