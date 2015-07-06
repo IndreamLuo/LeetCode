@@ -51,13 +51,23 @@
   </Choose>
   <ItemGroup>
     <Compile Include="15.3SumTest.cs" />
+    <Compile Include="16.3SumClosestTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="10.RegularExpressionMatchingTest.cs" />
     <Compile Include="11.ContainerWithMostWaterTest.cs" />
     <Compile Include="12.IntegerToRomanTest.cs" />
     <Compile Include="13.RomanToIntegerTest.cs" />
     <Compile Include="14.LongestCommonPrefixTest.cs" />
-    <Compile Include="16.3SumClosestTest.cs" />
+    <Compile Include="17.LetterCombinationsOfAPhoneNumberTest.cs" />
+    <Compile Include="18.4SumTest.cs" />
+    <Compile Include="19.RemoveNthNodeFromEndOfListTest.cs" />
+    <Compile Include="20.ValidParenthesesTest.cs" />
+    <Compile Include="21.MergeTwoSortedListsTest.cs" />
+    <Compile Include="22.GenerateParenthesesTest.cs" />
+    <Compile Include="23.MergeKSortedListsTest.cs" />
+    <Compile Include="24.SwapNodesInPairsTest.cs" />
+    <Compile Include="25.ReverseNodesInKGroupTest.cs" />
+    <Compile Include="26.RemoveDuplicatesFromSortedArrayTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LeetCode.Code\LeetCode.Code.csproj">

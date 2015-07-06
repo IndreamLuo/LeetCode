@@ -46,10 +46,20 @@
     <Compile Include="12.IntegerToRoman.cs" />
     <Compile Include="14.LongestCommonPrefix.cs" />
     <Compile Include="15.3Sum.cs" />
+    <Compile Include="16.3SumClosest .cs" />
+    <Compile Include="17.LetterCombinationsOfAPhoneNumber.cs" />
+    <Compile Include="18.4Sum.cs" />
+    <Compile Include="21.MergeTwoSortedLists.cs" />
+    <Compile Include="22.GenerateParentheses.cs" />
+    <Compile Include="23.MergeKSortedLists.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="13.RomanToInteger.cs" />
-    <Compile Include="16.3SumClosest .cs" />
+    <Compile Include="19.RemoveNthNodeFromEndOfList.cs" />
+    <Compile Include="20.ValidParentheses.cs" />
+    <Compile Include="24.SwapNodesInPairs.cs" />
+    <Compile Include="25.ReverseNodesInKGroup.cs" />
+    <Compile Include="26.RemoveDuplicatesFromSortedArray.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
