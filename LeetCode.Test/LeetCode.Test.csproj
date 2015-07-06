@@ -57,6 +57,7 @@
     <Compile Include="12.IntegerToRomanTest.cs" />
     <Compile Include="13.RomanToIntegerTest.cs" />
     <Compile Include="14.LongestCommonPrefixTest.cs" />
+    <Compile Include="16.3SumClosestTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LeetCode.Code\LeetCode.Code.csproj">
