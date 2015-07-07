@@ -22,10 +22,11 @@ namespace LeetCode.Test
 
 			Assert.AreEqual(length, target.Count());
 
-			Assert.IsTrue(target
+			var result = target
 				.Zip(compare
 					, (first, second) =>
-					first == second)
+					first == second);
+			Assert.IsTrue(result
 				.All(item => item));
 		}
 
