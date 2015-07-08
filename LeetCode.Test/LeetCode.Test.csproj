@@ -72,6 +72,7 @@
     <Compile Include="20~29\28.ImplementStrStrTest.cs" />
     <Compile Include="20~29\29.DivideTwoIntegersTest.cs" />
     <Compile Include="30.SubstringWithConcatenationOfAllWordsTest.cs" />
+    <Compile Include="31.NextPermutationTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LeetCode.Code\LeetCode.Code.csproj">
