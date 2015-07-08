@@ -55,6 +55,7 @@
     <Compile Include="20~29\28.ImplementStrStr.cs" />
     <Compile Include="20~29\29.DivideTwoIntegers.cs" />
     <Compile Include="31.NextPermutation.cs" />
+    <Compile Include="32.LongestValidParentheses.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="10~19\13.RomanToInteger.cs" />
