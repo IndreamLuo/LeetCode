@@ -61,16 +61,17 @@
     <Compile Include="10~19\17.LetterCombinationsOfAPhoneNumberTest.cs" />
     <Compile Include="10~19\18.4SumTest.cs" />
     <Compile Include="10~19\19.RemoveNthNodeFromEndOfListTest.cs" />
-    <Compile Include="20.ValidParenthesesTest.cs" />
-    <Compile Include="21.MergeTwoSortedListsTest.cs" />
-    <Compile Include="22.GenerateParenthesesTest.cs" />
-    <Compile Include="23.MergeKSortedListsTest.cs" />
-    <Compile Include="24.SwapNodesInPairsTest.cs" />
-    <Compile Include="25.ReverseNodesInKGroupTest.cs" />
-    <Compile Include="26.RemoveDuplicatesFromSortedArrayTest.cs" />
-    <Compile Include="27.RemoveElementTest.cs" />
-    <Compile Include="28.ImplementStrStrTest.cs" />
-    <Compile Include="29.DivideTwoIntegersTest.cs" />
+    <Compile Include="20~29\20.ValidParenthesesTest.cs" />
+    <Compile Include="20~29\21.MergeTwoSortedListsTest.cs" />
+    <Compile Include="20~29\22.GenerateParenthesesTest.cs" />
+    <Compile Include="20~29\23.MergeKSortedListsTest.cs" />
+    <Compile Include="20~29\24.SwapNodesInPairsTest.cs" />
+    <Compile Include="20~29\25.ReverseNodesInKGroupTest.cs" />
+    <Compile Include="20~29\26.RemoveDuplicatesFromSortedArrayTest.cs" />
+    <Compile Include="20~29\27.RemoveElementTest.cs" />
+    <Compile Include="20~29\28.ImplementStrStrTest.cs" />
+    <Compile Include="20~29\29.DivideTwoIntegersTest.cs" />
+    <Compile Include="30.SubstringWithConcatenationOfAllWordsTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LeetCode.Code\LeetCode.Code.csproj">

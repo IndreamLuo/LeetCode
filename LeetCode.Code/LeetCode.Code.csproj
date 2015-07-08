@@ -49,20 +49,21 @@
     <Compile Include="10~19\16.3SumClosest .cs" />
     <Compile Include="10~19\17.LetterCombinationsOfAPhoneNumber.cs" />
     <Compile Include="10~19\18.4Sum.cs" />
-    <Compile Include="21.MergeTwoSortedLists.cs" />
-    <Compile Include="22.GenerateParentheses.cs" />
-    <Compile Include="23.MergeKSortedLists.cs" />
-    <Compile Include="28.ImplementStrStr.cs" />
-    <Compile Include="29.DivideTwoIntegers.cs" />
+    <Compile Include="20~29\21.MergeTwoSortedLists.cs" />
+    <Compile Include="20~29\22.GenerateParentheses.cs" />
+    <Compile Include="20~29\23.MergeKSortedLists.cs" />
+    <Compile Include="20~29\28.ImplementStrStr.cs" />
+    <Compile Include="20~29\29.DivideTwoIntegers.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="10~19\13.RomanToInteger.cs" />
     <Compile Include="10~19\19.RemoveNthNodeFromEndOfList.cs" />
-    <Compile Include="20.ValidParentheses.cs" />
-    <Compile Include="24.SwapNodesInPairs.cs" />
-    <Compile Include="25.ReverseNodesInKGroup.cs" />
-    <Compile Include="26.RemoveDuplicatesFromSortedArray.cs" />
-    <Compile Include="27.RemoveElement.cs" />
+    <Compile Include="20~29\20.ValidParentheses.cs" />
+    <Compile Include="20~29\24.SwapNodesInPairs.cs" />
+    <Compile Include="20~29\25.ReverseNodesInKGroup.cs" />
+    <Compile Include="20~29\26.RemoveDuplicatesFromSortedArray.cs" />
+    <Compile Include="20~29\27.RemoveElement.cs" />
+    <Compile Include="30.SubstringWithConcatenationOfAllWords.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
