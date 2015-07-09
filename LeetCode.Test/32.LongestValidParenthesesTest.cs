@@ -18,6 +18,7 @@ namespace LeetCode.Test
 			Assert.AreEqual(2, longestValidParenthese.LongestValidParentheses("()(()"));
 			Assert.AreEqual(8, longestValidParenthese.LongestValidParentheses("(()()(())(("));
 			Assert.AreEqual(2, longestValidParenthese.LongestValidParentheses("(((()(()"));
+			Assert.AreEqual(22, longestValidParenthese.LongestValidParentheses("(()()()()()()()()()())"));
 		}
 	}
 }
