@@ -74,6 +74,7 @@
     <Compile Include="30.SubstringWithConcatenationOfAllWordsTest.cs" />
     <Compile Include="31.NextPermutationTest.cs" />
     <Compile Include="32.LongestValidParenthesesTest.cs" />
+    <Compile Include="35.SearchInsertPositionTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LeetCode.Code\LeetCode.Code.csproj">

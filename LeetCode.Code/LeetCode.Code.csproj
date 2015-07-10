@@ -66,6 +66,7 @@
     <Compile Include="20~29\26.RemoveDuplicatesFromSortedArray.cs" />
     <Compile Include="20~29\27.RemoveElement.cs" />
     <Compile Include="30.SubstringWithConcatenationOfAllWords.cs" />
+    <Compile Include="35.SearchInsertPosition.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
